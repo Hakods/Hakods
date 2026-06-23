@@ -13,7 +13,7 @@
 
 ### 🚀 About me
 
-iOS developer with a Computer Engineering degree and **6 production apps live on the App Store**. My flagship, **Toyzie AI**, crossed **100K+ downloads** and ranked **Top 30** in the U.S. App Store's Reference category. I work end to end — from SwiftUI interfaces and AVFoundation camera pipelines to Firebase backends and Cloudflare/AWS infrastructure, plus the full App Store Connect → TestFlight → release lifecycle.
+iOS developer with a Computer Engineering degree and 6 production apps live on the App Store. I contributed to the development of Toyzie AI, an app that crossed 100K+ downloads and ranked Top 30 in the U.S. App Store's Reference category. I work end to end — from SwiftUI interfaces and AVFoundation camera pipelines to Firebase backends and Cloudflare/AWS infrastructure, plus the full App Store Connect → TestFlight → release lifecycle.
 
 ### 🛠️ Tech stack
 
